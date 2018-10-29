@@ -38,7 +38,8 @@ The awesome title image was [Designed by Freepik](http://www.freepik.com).
 
 ## Build Statuses  
 
-C# [![Build status](https://ci.appveyor.com/api/projects/status/ib5r6pt7jccpr5fd?svg=true)](https://ci.appveyor.com/project/rohan-git/the-coding-interview)  
+C# [![Build status](https://ci.appveyor.com/api/projects/status/ib5r6pt7jccpr5fd/branch/develop?svg=true)](https://ci.appveyor.com/project/rohan-git/the-coding-interview/branch/develop)
+  
 
 
 
